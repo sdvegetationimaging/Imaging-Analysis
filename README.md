@@ -8,3 +8,5 @@ Here is a small sampling of  useful links from the worldwide community of DIY re
 [Time lapse images of water stress in growing plants] (https://publiclab.org/notes/LaPa/03-31-2016/raspberry-noir-cam-sensors-to-detect-water-stress-of-the-plants-during-their-growing)
 
 [Pi Noir with blue filter] (https://publiclab.org/notes/carolccarvalho/07-15-2016/raspberry-noir-cam-blue-filter)
+
+Contributions and suggestions are welcome! (via comments or [email](sdvegetationimaging@gmail.com)
