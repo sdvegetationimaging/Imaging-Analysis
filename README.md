@@ -20,4 +20,4 @@ Contributions and suggestions are welcome! (via comments or email: sdvegetationi
 
 # Image Analysis
 
-Analysis, such as NDVI of images, coming soon! 
+NDVI of images, and other useful plant health indicators, coming soon! 
