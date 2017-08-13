@@ -4,7 +4,7 @@ Plant Images: The images in this repository have been taken at different locatio
 
 Here is a small sampling of  useful links from the worldwide community of researchers:
 
-[Public Lab plant health](http://publiclab.org/tag/plant-health)
+[Public Lab](https://publiclab.org/) [plant health](http://publiclab.org/tag/plant-health)
 
 [Time lapse images of water stress in growing plants](http://publiclab.org/notes/LaPa/03-31-2016/raspberry-noir-cam-sensors-to-detect-water-stress-of-the-plants-during-their-growing)
 
