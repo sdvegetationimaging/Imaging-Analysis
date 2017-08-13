@@ -20,4 +20,4 @@ Contributions and suggestions are welcome! (via comments or email: sdvegetationi
 
 # Image Analysis
 
-Analysis, like NDVI calculations, coming soon! 
+Analysis, such as NDVI of images, coming soon! 
