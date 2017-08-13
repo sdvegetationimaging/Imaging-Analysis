@@ -3,5 +3,7 @@ Plant Images: The images in this repository have been taken at different locatio
 
 Here are some useful links:
 [Public Lab Plant Health] (https://publiclab.org/tag/plant-health)
+
 [Public Lab images of water stress] (https://publiclab.org/notes/LaPa/03-31-2016/raspberry-noir-cam-sensors-to-detect-water-stress-of-the-plants-during-their-growing)
+
 [Pi Noir with blue filter] (https://publiclab.org/notes/carolccarvalho/07-15-2016/raspberry-noir-cam-blue-filter)
