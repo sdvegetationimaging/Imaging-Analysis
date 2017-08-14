@@ -1,6 +1,7 @@
 
 <img src="Misc_Pics/cover.png" alt="hi" class="inline" width="400" height="400"/>
 
+
 # San Diego Vegetation Imaging
 This is a community based project to develop technologies for monitoring plant health in gardens throughout San Diego County.
 
