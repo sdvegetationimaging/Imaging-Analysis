@@ -4,7 +4,7 @@
 
 
 # Growing healthy plants by plant image sharing
-Growing plants is inherently a local effort. The varieties that grow in one part of a city with as diverse a set of local climatic conditions as San Diego differ from those in others. Direct factors like climate, soil, light, air, and moisture vary widely from one part of the city to another. So do the composition of  communities that partake in producing and consuming the plant resources. The knowledge required to grow healthy plants in a conscious manner is a culmination of decades of unrelenting attention to detail and living in and shaping the environment that supports their growth.
+Growing plants is inherently local in nature. The varieties that grow in one part of a city with as diverse a set of local climatic conditions as San Diego differ from those in others. Direct factors like climate, soil, light, air, and moisture vary widely from one part of the city to another. So do the composition of  communities that partake in producing and consuming the plant resources. The knowledge required to grow healthy plants in a conscious manner is a culmination of decades of unrelenting attention to detail and living in and shaping the environment that supports their growth.
 
 The first and most valuable part of this project is the community of people willing to share their knowledge, experience, and keen to learn from each other. This is a participatory effort in which the farming community, the researchers, the hobbyists, the curious and everyone who believes in community ownership of and involvement in maintaining the environment and plant resources can step into with minimal effort.
 
