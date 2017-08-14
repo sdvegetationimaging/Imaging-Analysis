@@ -28,7 +28,7 @@ The images in this repository have been taken at different locations around San 
  
 Here are the images from the current participants in this project:
 
-[City Farmers Images](CityFarmers)
+[Images from City Farmers Nursery](CityFarmers)
 
 
 
