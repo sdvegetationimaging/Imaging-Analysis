@@ -54,7 +54,7 @@ NDVI calculated on infra-blue images, and other useful plant health indicators, 
 
 ## We Are
 
-A group of independent researchers working to bring emerging computer and imaging technologies to plant growth and care,  engage the community in creating its own solutions, and hoping to make a positive difference. We are self-funded.
+A group of independent researchers working to bring affordable  computer, imaging, sensor and data technologies to plant growth and care,  engage the community in creating its own solutions, and hoping to make a positive difference. We are self-funded.
 
 ### Questions and comments are welcome
 via <span><a href="mailto:sdvegetationimaging@gmail.com"> email</a></span>
