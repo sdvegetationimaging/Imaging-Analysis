@@ -16,7 +16,7 @@ Learning successful growth strategies  require observing plants under a range of
 
 To accomplish this, inexpensive computers ([Raspberry Pi Zero W](http://www.raspberrypi.org/products/raspberry-pi-zero-w/)) and cameras ([Pi Camera](https://www.raspberrypi.org/products/camera-module-v2/), [Pi Noir Camera](https://www.raspberrypi.org/products/pi-noir-camera-v2/))  capable of taking pictures in near infrared (NIR) range, are set up to collect plant data over extended periods, for  many plants and under different conditions. 
 
-Besides the long term goal outlined above, there are immediate benefits of community participation in this project. Participants in contributing their plant images have available the feedback from the community about the health and  nurturing of their plants.
+Besides the long term goal outlined above, there are immediate benefits of community participation in this project. Participants in contributing their plant images have available the feedback from the community about the health and  nurturing of their plants. To participate in any aspect of the project, please get in touch via <span><a href="mailto:sdvegetationimaging@gmail.com"> email</a></span>. 
 
 
 
