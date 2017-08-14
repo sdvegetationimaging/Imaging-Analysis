@@ -31,5 +31,5 @@ Some links from [Public Lab](https://publiclab.org/):
 NDVI calculated on infra-blue images, and other useful plant health indicators, coming soon! 
 
 ### Suggestions are welcome
-<p><a href="mailto:sdvegetationimaging@gmail.com">Send email</a></p>
+via <p><a href="mailto:sdvegetationimaging@gmail.com"> email</a></p>
 
