@@ -51,7 +51,7 @@ NDVI calculated on infra-blue images, and other useful plant health indicators, 
 
 
 
-### Suggestions are welcome
+### Questions and comments are welcome
 via <span><a href="mailto:sdvegetationimaging@gmail.com"> email</a></span>
 
 ### Disclaimer for External Links
