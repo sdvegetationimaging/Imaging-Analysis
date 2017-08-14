@@ -1,5 +1,5 @@
 
-<p align="center">< src="Misc_Pics/cover.png" alt="hi" class="inline" width="300" height="200"/></p>
+<p align="center">< src="./Misc_Pics/cover.png" alt="hi" class="inline" width="300" height="200"/></p>
 
 
 # San Diego Vegetation Imaging
