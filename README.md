@@ -1,3 +1,8 @@
+<p align="center"> 
+<img src="https://github.com/identicons/sdvegetationimaging.png" alt="hi" class="inline" width="150" height="100"/>
+</p>
+
+
 # A local approach to plant growth
 In San Diego, plant growth is a local phenomenon. Direct factors like climate, soil, light, air, and moisture vary widely from one part of the city to another. So do the composition of  communities that partake in producing and consuming the plant resources. The knowledge required to grow healthy plants in a conscious manner is a culmination of decades of unrelenting attention to detail and living in and shaping the environment that supports their growth. A goal of this project is to make some of that knowledge accessible to the community through the use of computing and imaging technology that is available to everyone, increasingly sophisticated, and easy to learn and deploy. 
 
