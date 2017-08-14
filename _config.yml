@@ -1,6 +1,4 @@
 theme: jekyll-theme-cayman
 title: San Diego Vegetation Imaging 
 description: A community based project to develop technologies for monitoring plant health throughout San Diego County
-<p align="center"> 
-<img src="Misc_Pics/cover.png" alt="hi" class="inline" width="150" height="100"/>
-</p>
+avatar: Misc_Pics/cover.png
