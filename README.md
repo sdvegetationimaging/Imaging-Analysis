@@ -15,13 +15,6 @@ Learning successful growth strategies  requires observing plants under a range o
 
 
 
-# Community participation
-
-This process is a give and take in which stronger plant growth and community member participation, it is hoped, will bring more of the local knowledge into the repository and make it all the richer. Besides the long term goal outlined above, there are immediate benefits of community participation in this project. Participants contributing their plant images have available the feedback from the community about the health and  nurturing of their plants. To participate in any aspect of the project, please get in touch via <span><a href="mailto:sdvegetationimaging@gmail.com"> email</a></span>. 
-
-
-
-
 
 
 ## Images and Plant Health
@@ -51,6 +44,11 @@ Some links from [Public Lab](https://publiclab.org/):
 ## Image Analysis
 
 NDVI calculated on infra-blue images, and other useful plant health indicators, coming soon! 
+
+## Community participation
+
+This process is a give and take in which stronger plant growth and community member participation, it is hoped, will bring more of the local knowledge into the repository and make it all the richer. Besides the long term goal outlined above, there are immediate benefits of community participation in this project. Participants contributing their plant images have available the feedback from the community about the health and  nurturing of their plants. To participate in any aspect of the project, please get in touch via <span><a href="mailto:sdvegetationimaging@gmail.com"> email</a></span>. 
+
 
 ## We Are
 
