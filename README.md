@@ -6,7 +6,7 @@
 # Healthier plants by sharing plant images
 Growing plants is inherently local in nature. The varieties that grow in one part of a city with as diverse a set of local climatic conditions as San Diego differ from those in others. Direct factors like climate, soil, light, air, and moisture vary widely from one part of the city to another. So do the composition of  communities that partake in producing and consuming the plant resources. The knowledge required to grow healthy plants in a conscious manner is a culmination of decades of unrelenting attention to detail and living in and shaping the environment that supports their growth.
 
-First and most valuable part of this project is the community of people willing to share their knowledge, experience, and keen to learn from each other. The farming community, the researchers, the hobbyists, the curious and everyone who believes in community ownership of and involvement in maintaining the environment and plant resources can step into this project with minimal effort.
+First and most valuable part of this project is the community of people willing to share their knowledge, experience, and keen to learn from each other. The farming community, the researchers, the hobbyists and enthusiasts, the curious and everyone who believes in community ownership of and involvement in maintaining the environment and plant resources can step into this project with minimal effort.
 
 The collection of tried and tested as well as emerging ideas in plant growth strategies is vast and expanding. A goal of this project is to make such knowledge accessible to the community through the use of computing and imaging technology that is available to everyone, increasingly sophisticated, and easy to learn and deploy. 
 
@@ -54,7 +54,7 @@ NDVI calculated on infra-blue images, and other useful plant health indicators, 
 
 ## We Are
 
-A group of independent researchers learning about plants and emerging technologies, finding areas where we can engaging with the community, hoping to make a positive difference. We are self-funded.
+A group of independent researchers learning about plants and emerging technologies, looking for ways to  engage with the community in creating its own solutions, and hoping to make a positive difference. We are self-funded.
 
 ### Questions and comments are welcome
 via <span><a href="mailto:sdvegetationimaging@gmail.com"> email</a></span>
