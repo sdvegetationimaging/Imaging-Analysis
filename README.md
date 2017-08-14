@@ -3,10 +3,6 @@
 </p>
 
 
-
-# Images, links to community sites, and analysis of image data.
-
-
 ## Images 
 The images in this repository have been taken at different locations around San Diego. Most of the images are infra-blue,  in near infrared (NIR) and blue bands (these look grayish!). This facilitates calcualtion of the Normalized Difference Vegetation Index (NDVI, see links below), an indicator of photosynthetic activity. The setup consists of a [Raspberry Pi Zero W](http://www.raspberrypi.org/products/raspberry-pi-zero-w/) and a [Pi Noir Camera](https://www.raspberrypi.org/products/pi-noir-camera-v2/). Infra-blue images can be used to calculate Normalized Difference Vegetation Index (NDVI) that shows photosynthetic activity. 
 
