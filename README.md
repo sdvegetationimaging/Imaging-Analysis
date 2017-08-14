@@ -1,5 +1,5 @@
 
-<img src="Misc_Pics/cover.png" alt="hi" class="inline"/>
+<img src="Misc_Pics/cover.png" alt="hi" class="inline" width="200" height="400"/>
 
 
 # Images 
