@@ -17,7 +17,7 @@ Learning successful growth strategies  requires observing plants under a range o
 
 To accomplish this, inexpensive computers ([Raspberry Pi Zero W](http://www.raspberrypi.org/products/raspberry-pi-zero-w/)) and cameras ([Pi Camera](https://www.raspberrypi.org/products/camera-module-v2/), [Pi Noir Camera](https://www.raspberrypi.org/products/pi-noir-camera-v2/))  capable of taking pictures in near infrared (NIR) band are set up to collect plant data over extended periods, for as many plants as possible and under different conditions. 
 
-Besides the long term goal outlined above, there are immediate benefits of community participation in this project. Participants in contributing their plant images have available the feedback from the community about the health and  nurturing of their plants. To participate in any aspect of the project, please get in touch via <span><a href="mailto:sdvegetationimaging@gmail.com"> email</a></span>. 
+Besides the long term goal outlined above, there are immediate benefits of community participation in this project. Participants contributing their plant images have available the feedback from the community about the health and  nurturing of their plants. To participate in any aspect of the project, please get in touch via <span><a href="mailto:sdvegetationimaging@gmail.com"> email</a></span>. 
 
 
 
@@ -54,7 +54,7 @@ NDVI calculated on infra-blue images, and other useful plant health indicators, 
 
 ## We Are
 
-A group of independent researchers working to bring emerging technologies to plant nurtuing and growth,  engage the community in creating its own solutions, and hoping to make a positive difference. We are self-funded.
+A group of independent researchers working to bring emerging technologies to plant care and growth,  engage the community in creating its own solutions, and hoping to make a positive difference. We are self-funded.
 
 ### Questions and comments are welcome
 via <span><a href="mailto:sdvegetationimaging@gmail.com"> email</a></span>
