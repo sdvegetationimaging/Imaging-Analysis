@@ -2,6 +2,7 @@
  # San Diego Vegetation Imaging 
  
  
+ <p align="center"> 
 <img src="Misc_Pics/cover.png" alt="hi" class="inline" width="300" height="200"/>
 </p>
 
