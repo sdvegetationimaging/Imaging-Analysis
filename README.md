@@ -26,7 +26,7 @@ Besides the long term goal outlined above, there are immediate benefits of commu
 ## Images 
 The images in this repository have been taken at different locations around San Diego. Most are infra-blue (these look bluish gray),  with two bands,  near infrared (NIR) and blue, instead of the normal RGB. NIR is recorded in the R channel in the image, and blue is in the B channel as usual. This facilitates calcualtion of the Normalized Difference Vegetation Index (NDVI, see links below), an indicator of photosynthetic activity. Infra-blue images can be used to calculate Normalized Difference Vegetation Index (NDVI) that shows photosynthetic activity. 
  
-Here are images from current participants in the project:
+Here are the images from the current participants in this project:
 
 [City Farmers Images](CityFarmers)
 
