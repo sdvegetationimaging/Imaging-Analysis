@@ -13,7 +13,7 @@ The collective of tried and tested as well as emerging ideas in plant growth str
 
 
 # Community participation
-Learning successful growth strategies  requires observing plants under a range of conditions and learning their growth behavior, and making that data and knowledge available to the community. This process is a give and take in which stronger plant growth and community member participation, it is hoped, will bring more of the local knowledge into the repository and make it all the richer.
+Learning successful growth strategies  requires observing plants under a range of conditions and studying their growth behavior, and making that data and knowledge available to the community. This process is a give and take in which stronger plant growth and community member participation, it is hoped, will bring more of the local knowledge into the repository and make it all the richer.
 
 To accomplish this, inexpensive computers ([Raspberry Pi Zero W](http://www.raspberrypi.org/products/raspberry-pi-zero-w/)) and cameras ([Pi Camera](https://www.raspberrypi.org/products/camera-module-v2/), [Pi Noir Camera](https://www.raspberrypi.org/products/pi-noir-camera-v2/))  capable of taking pictures in near infrared (NIR) range, are set up to collect plant data over extended periods, for  many plants and under different conditions. 
 
