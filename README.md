@@ -11,7 +11,7 @@ The first and most valuable part of this project is the community of people will
 
 
 # Community participation
-Learning successful growth strategy  requires observing plants under a range of conditions and learning their growth behavior, and making that data and knowledge available to the community. This process is a give and take in which stronger plant growth and community member participation, it is hoped, will bring more of the local knowledge into the repository and make it all the richer.
+Learning successful growth strategies  require observing plants under a range of conditions and learning their growth behavior, and making that data and knowledge available to the community. This process is a give and take in which stronger plant growth and community member participation, it is hoped, will bring more of the local knowledge into the repository and make it all the richer.
 
 To accomplish this, inexpensive computers ([Raspberry Pi Zero W](http://www.raspberrypi.org/products/raspberry-pi-zero-w/)) and cameras ([Pi Noir Camera](https://www.raspberrypi.org/products/pi-noir-camera-v2/))  capable of taking pictures in near infrared (NIR) range are used to collect plant data over extended periods, for  many plants and under different conditions. 
 
