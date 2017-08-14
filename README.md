@@ -1,5 +1,6 @@
 
-<p align="left">  # San Diego Vegetation Imaging </p>
+ # San Diego Vegetation Imaging 
+ 
 <img src="Misc_Pics/cover.png" alt="hi" class="inline" width="300" height="200"/>
 </p>
 
