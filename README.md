@@ -5,7 +5,6 @@
 
 
 
-This is a community based project to develop technologies for monitoring plant health in gardens throughout San Diego County.
 
 
 ## Images 
