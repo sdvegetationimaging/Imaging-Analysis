@@ -24,7 +24,7 @@ Some links from [Public Lab](https://publiclab.org/):
 
 [Pi Noir with blue filter](http://publiclab.org/notes/carolccarvalho/07-15-2016/raspberry-noir-cam-blue-filter)
 
-Contributions and suggestions are welcome! (via comments or email: sdvegetationimaging@gmail.com)
+Suggestions are welcome!  (via comments or email: sdvegetationimaging@gmail.com)
 
 ## Image Analysis
 
