@@ -8,7 +8,7 @@ Growing plants is inherently local in nature. The varieties that grow in one par
 
 First and most valuable part of this project is the community of people willing to share their knowledge, experience, and keen to learn from each other. The farming community, the researchers, the hobbyists, the curious and everyone who believes in community ownership of and involvement in maintaining the environment and plant resources can step into this project with minimal effort.
 
-The collective of tried and tested as well as emerging ideas in plant growth strategies is vast and expanding. A goal of this project is to make such knowledge accessible to the community through the use of computing and imaging technology that is available to everyone, increasingly sophisticated, and easy to learn and deploy. 
+The collection of tried and tested as well as emerging ideas in plant growth strategies is vast and expanding. A goal of this project is to make such knowledge accessible to the community through the use of computing and imaging technology that is available to everyone, increasingly sophisticated, and easy to learn and deploy. 
 
 
 
