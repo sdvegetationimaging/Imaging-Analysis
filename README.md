@@ -1,5 +1,5 @@
 <p align="center"> 
-<img src="https://github.com/identicons/sdvegetationimaging.png" alt="hi" class="inline" width="150" height="100"/>
+<img src="Misc_Pics/cover.png" alt="hi" class="inline" width="300" height="200"/>
 </p>
 
 
