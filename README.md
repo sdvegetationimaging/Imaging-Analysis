@@ -47,7 +47,7 @@ Some links from [Public Lab](https://publiclab.org/):
 
 NDVI calculated on infra-blue images, and other useful plant health indicators, coming soon! 
 
-## Community participation
+## Community Participation
 
 It is hoped that stronger plant growth and community member participation, will bring more of the local knowledge into the repository and make it all the richer, benefitting everyone. Besides the long term goal of helping communities cooperate and learn from the collective intelligence, there are immediate benefits to participation. Participants contributing their plant images have available the feedback from the community about the health and  nurturing of their plants. To participate in any aspect of the project, please get in touch via <span><a href="mailto:sdvegetationimaging@gmail.com"> email</a></span>. 
 
@@ -56,7 +56,7 @@ It is hoped that stronger plant growth and community member participation, will 
 
 A group of independent researchers working to bring affordable  computer, imaging, sensor and data technologies to plant growth and care,  engage the community in creating its own solutions, and hoping to make a positive difference. We are self-funded.
 
-### Questions and comments are welcome
+### Questions and Comments are Welcome
 via <span><a href="mailto:sdvegetationimaging@gmail.com"> email</a></span>
 
 ### Disclaimer for External Links
