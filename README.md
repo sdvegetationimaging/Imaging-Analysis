@@ -60,4 +60,5 @@ A group of independent researchers working to bring affordable  computer, imagin
 via <span><a href="mailto:sdvegetationimaging@gmail.com"> email</a></span>
 
 ### Disclaimer for External Links
+
 [Disclaimer](Disclaimer)
