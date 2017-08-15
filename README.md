@@ -49,7 +49,7 @@ NDVI calculated on infra-blue images, and other useful plant health indicators, 
 
 ## Community Participation
 
-Better plant growth as a result of  community participation and  information sharing makes the repository richer, more useful, and focussed on local conditions, to everyone's advantage. Besides the long term goal of helping community members cooperate and learn from the collective intelligence, there are immediate benefits to participation. Participants contributing their plant images have available the feedback from the community about the health and  nurturing of their plants. To participate in any aspect of the project, please get in touch via <span><a href="mailto:sdvegetationimaging@gmail.com"> email</a></span>. 
+Better plant growth as a result of  community participation and  information sharing makes the repository richer, more useful, with a stronger focus on local conditions, to everyone's advantage. Besides the long term goal of helping community members cooperate and learn from the collective intelligence, there are immediate benefits to participation. Participants contributing their plant images have available the feedback from the community about the health and  nurturing of their plants. To participate in any aspect of the project, please get in touch via <span><a href="mailto:sdvegetationimaging@gmail.com"> email</a></span>. 
 
 
 ## We Are
