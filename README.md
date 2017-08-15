@@ -30,9 +30,7 @@ Here are the images from the current participants in this project:
 
 ## Community Links
 
-Here is a small sampling of  useful links from the worldwide community of researchers:
-
-Some links from [Public Lab](https://publiclab.org/):
+Here is a small sampling of  useful links from the worldwide community of researchers.
 
  [Plant health](http://publiclab.org/tag/plant-health)
  
