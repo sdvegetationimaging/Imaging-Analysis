@@ -22,7 +22,7 @@ To accomplish this, inexpensive computers ([Raspberry Pi Zero W](http://www.rasp
 ## Images and Plant Health
 The images in this repository have been taken at different locations around San Diego. Most are infra-blue (these look bluish gray),  with two bands,  near infrared (NIR) and blue, instead of the normal RGB. NIR is recorded in the R channel in the image, and blue is in the B channel as usual. Infra-blue images can be used to calculate the Normalized Difference Vegetation Index (NDVI), an indicator of the photosynthetic activity occuring in the plant, measuring the plant health.
  
-Here are the images from the current participants in this project:
+Here are the images from the current participants in this project.
 
 [Images from City Farmers Nursery](CityFarmers)
 
