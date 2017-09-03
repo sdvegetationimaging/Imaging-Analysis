@@ -8,7 +8,7 @@ The process of growing plants inherently depends on local conditions. The  plant
 
 
 
-Learning successful growth strategies  requires observing plants under a range of conditions and studying their growth behavior, and making that data and knowledge available to the community. First and essential part of this project is to enable the community of people willing to share their knowledge and experience, and those who may be open to learning from others. The farming community, the researchers, the hobbyists and enthusiasts, the curious and everyone who believes in community ownership of and involvement in maintaining the environment and plant resources can step into this project with minimal effort.
+Learning successful growth strategies  requires observing plants under a range of conditions and studying their growth behavior, and making that data and knowledge available to the community. First and essential part of this project is to enable the community of people willing to share their knowledge and experience, and those who may be open to learning from others, to be more effective at it. The farming community, the researchers, the hobbyists and enthusiasts, the curious and everyone who believes in community ownership of and involvement in maintaining the environment and plant resources can step into this project with minimal effort.
 
 
 The collection of tried and tested as well as emerging ideas in plant growth strategies is vast and expanding. A goal of this project is to make such knowledge accessible to the community through the use of computing and imaging technology that is available to everyone, increasingly sophisticated, and easy to learn and use. 
