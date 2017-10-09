@@ -3,7 +3,7 @@
     <figcaption>Solar powered infrablue camera installed at City Farmers</figcaption>
 </figure>
 
-# Healthier Plants through Image Sharing
+# Healthier Plants by Image Sharing
 The process of growing plants inherently depends on local conditions. The  plant varieties that thrive in one part of a city, with as diverse a set of  climatic and terrain conditions as San Diego, are best adapted to the conditions existing there. Direct factors like weather, temperature, soil composition, light, air, and moisture vary widely from one part of the city to another, reflected in the local plant life.  Communities that partake in producing and consuming plant resources are themselves diverse and their relationship to nature and approach to plant growth, though invaluable and well suited to the task, are often misunderstood or missed altogether.  Accumulating the knowledge and  practices to grow healthy plants in a conscious manner is a culmination of decades, if not generations, of unrelenting attention to detail and living in and shaping the environment that supports their growth.
 
 
