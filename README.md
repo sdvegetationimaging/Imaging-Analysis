@@ -1,6 +1,11 @@
 <p align="center"> 
-<img src="images/IMG_0769a.JPG" alt="hi" class="inline" width="300" height="400"/>
-</p>
+ <figure>
+    <img src='images/IMG_0769a.JPG' alt="hi" class="inline" width="300" height="400" />
+    <figcaption>Solar powered infra-blue camera (small green box) installed at City Farmers</figcaption>
+</figure>
+ </p>
+
+
 
 
 # Healthier Plants by Image Sharing
