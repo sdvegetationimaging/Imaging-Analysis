@@ -3,7 +3,7 @@
   <p align="center"><img src="images/IMG_0769a.JPG"
     width="300" height="400"
     alt="Eiffel tower">
-  <p align="center"> Experimental solar powered infrablue camera at City Farmers
+  <p align="center"> Solar powered infrablue camera installed at City Farmers
 </div>
 
 
