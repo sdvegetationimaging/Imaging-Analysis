@@ -1,5 +1,5 @@
 <figure>
-    <img src='images/IMG_0769a.JPG' alt="hi" class="inline" width="300" height="400" />
+    <img src='Pics/IMG_0769a.JPG' alt="hi" class="inline" width="300" height="400" />
     <figcaption>Solar powered infrablue camera installed at City Farmers</figcaption>
 </figure>
 
@@ -20,7 +20,7 @@ To accomplish this, inexpensive computers ([Raspberry Pi Zero W](http://www.rasp
 
 
 ## Images and Plant Health
-The images in this repository are to be taken at different locations around San Diego. Most are infra-blue (these look bluish gray),  with two bands,  near infrared (NIR) and blue, instead of the normal RGB. NIR is recorded in the R channel in the image, and blue is in the B channel as usual. Infra-blue images can be used to calculate the Normalized Difference Vegetation Index (NDVI), an indicator of the photosynthetic activity occuring in the plant, measuring the plant health.
+The images in this repository are to be taken at different locations around San Diego. Each picture is taken in two modes: RGB (normal) and RGB+IR (No IR Filter). These can be used to calculate the Normalized Difference Vegetation Index (NDVI), an indicator of the photosynthetic activity occuring in the plant, measuring the plant health.
  
 Here are the images from the current participants in this project (more to be added soon).
 
