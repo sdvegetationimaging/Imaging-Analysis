@@ -1,6 +1,6 @@
 <figure>
     <img src='Pics/IMG_0769a.JPG' alt="hi" class="inline" width="300" height="400" />
-    <figcaption>Solar powered infrablue camera installed at City Farmers</figcaption>
+    <figcaption>Solar powered dual exposure (RGB/RGB+IR) camera installed at City Farmers</figcaption>
 </figure>
 
 # Healthier Plants by Image Sharing
